@@ -76,13 +76,13 @@ Some transaction descriptions represent charges such as postage rather than phys
 
 Monthly sales revenue from December 2010 to December 2011.
 
-![Monthly Revenue](<retail/analysis/visualizations/Monthly Revenue Trend _ 2010–2011.png>)
+![Monthly Revenue](<retail_analysis/visualizations/Monthly Revenue Trend _ 2010–2011.png>)
 
 ### Revenue by Country
 
 Top ten countries by positive-sales revenue.
 
-![Revenue by Country](<retail/analysis/visualizations/Revenue by Country _ 2010–2011.png>)
+![Revenue by Country](<retail_analysis/visualizations/Revenue by Country _ 2010–2011.png>)
 
 Both visualizations were created using Tableau Public from SQL query results.
 
